@@ -1,2 +1,5 @@
 # quantization-notes
-Notes on quantization in neural networks
+
+Sample code for various quantization techniques in neural networks using PyTorch.
+
+
